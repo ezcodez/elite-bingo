@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:55:52	13980/13980	---MCZ	200	added ('OK')	text/html	date:Thu,%2016%20Apr%202020%2008:57:30%20GMT	https://mfbc.us/m/vhs66m	C:/xampp/htdocs/bingo/elite_bingo/mfbc.us/m/vhs66m.html	(from )
+10:55:52	80/80	---MCZ	200	added ('OK')	text/plain	etag:W/%2240-593c1b3f60483%22	https://mfbc.us/robots.txt		(from )
+10:55:54	10819/10819	---M--	200	added ('OK')	image/gif	etag:%222a43-5526acc244794%22	https://mfbc.us/images/ajax-loader.gif	C:/xampp/htdocs/bingo/elite_bingo/mfbc.us/images/ajax-loader.gif	(from https://mfbc.us/m/vhs66m)
+10:55:55	45229/45229	---MC-	200	added ('OK')	text/javascript	date:Thu,%2006%20Feb%202020%2000:21:02%20GMT	http://www.google-analytics.com/analytics.js	C:/xampp/htdocs/bingo/elite_bingo/www.google-analytics.com/analytics.js	(from https://mfbc.us/m/vhs66m)
+10:55:55	84380/84380	---MC-	200	added ('OK')	text/javascript	date:Tue,%2003%20Mar%202020%2019:15:00%20GMT	https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js	C:/xampp/htdocs/bingo/elite_bingo/ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js	(from https://mfbc.us/m/vhs66m)

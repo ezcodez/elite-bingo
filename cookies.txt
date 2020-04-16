@@ -1,0 +1,5 @@
+
+# This file format is compatible with Netscape cookies
+.mfbc.us	TRUE	/	FALSE	1999999999	__cfduid	d35b3b39d5f97423cff841da0e253ce171587027450
+mfbc.us	TRUE	/	FALSE	1999999999	SameSite	Lax
+
