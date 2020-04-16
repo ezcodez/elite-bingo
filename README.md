@@ -29,7 +29,7 @@ These files have been modified by **! Smile#0420**
 i would love some feedback and i have made a [strawpoll](https://strawpoll.com/xe42yb9s) so you can simple just answer by clicking one of the boxes
 [Click here](https://strawpoll.com/xe42yb9s) to give feed back on [strawpoll](https://strawpoll.com/xe42yb9s)
 
-# **© Copyrights**
+# **© Copyrights** 
 
 © Copyright 2020 'my free bingo cards' - All Rights Reserved
 © Copyright 2020 Splex Development - All Rights Reserved
