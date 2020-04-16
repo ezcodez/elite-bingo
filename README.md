@@ -17,13 +17,13 @@ These files have been modified by **! Smile#0420**
 ## Join the gmod server this bingo is based on
 |     Server           |Join                          |
 |----------------|-------------------------------|
-|**► Elitelupus Roleplay #1**| <td><a href='steam://connect/54.37.246.36:27015'> <br>Click Here to join</a></td> |
-|**► Elitelupus Roleplay #2**|[Click here to join](steam://connect/54.37.246.36:27016)|
-|**► Elitelupus Roleplay #3**|[Click here to join](steam://connect/54.37.246.36:27017)|
-|**► Elitelupus Roleplay #4 (USA)**|[Click here to join](steam://connect/gmod-drp1-usa.elitelupus.com:27015)|
-|**► Elitelupus Roleplay #5 (USA)**|[Click here to join](steam://connect/gmod-drp2-usa.elitelupus.com:27015)|
-|**► Elitelupus Roleplay #6 (USA)**|[Click here to join](steam://connect/gmod-drp3-usa.elitelupus.com:27015)|
-|**► Elitelupus Roleplay #7 (AU)**|[Click here to join](team://connect/139.99.233.75:27015)|
+|**► Elitelupus Roleplay #1**|steam://connect/54.37.246.36:27015|
+|**► Elitelupus Roleplay #2**|steam://connect/54.37.246.36:27016|
+|**► Elitelupus Roleplay #3**|steam://connect/54.37.246.36:27017|
+|**► Elitelupus Roleplay #4 (USA)**|steam://connect/gmod-drp1-usa.elitelupus.com:27015|
+|**► Elitelupus Roleplay #5 (USA)**|steam://connect/gmod-drp2-usa.elitelupus.com:27015|
+|**► Elitelupus Roleplay #6 (USA)**|steam://connect/gmod-drp3-usa.elitelupus.com:27015|
+|**► Elitelupus Roleplay #7 (AU)**|steam://connect/139.99.233.75:27015|
 
 ## please answer a few questions in the poll below
 i would love some feedback and i have made a [strawpoll](https://strawpoll.com/xe42yb9s) so you can simple just answer by clicking one of the boxes
